@@ -5,9 +5,17 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Programm4
+  
+    
 {
     class Program
+        
+       
     {
+        /// <summary>
+        /// 5.	Вычислить y=sin1+sin1.1+sin1.2+...+sin2
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
             double s=0;
