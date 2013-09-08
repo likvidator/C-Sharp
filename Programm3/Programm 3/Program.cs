@@ -15,7 +15,7 @@ namespace Programm_3
         /// <param name="args"></param>
         static void Main(string[] args)
         {
-           
+
             double x1 = Input("x1:");
             double y1 = Input("y1:");
             double x2 = Input("x2:");
@@ -27,35 +27,32 @@ namespace Programm_3
             double l3 = len(x2, y2, x3, y3);
             // if ((l1 * l1 == l2 * l2 + l3 * l3) || (l2 * l2 == l1 * l1 + l3 * l3) || (l3 * l3 == l2 * l2 + l1 * l1))
             //Проверка что угол прямой по теореме пифагора
-                if (l1 * l1 == l2 * l2 + l3 * l3)
-                {
-                    Console.WriteLine("x={0},y={1}", x3 - x1 + x2, y3 - y1 + y2);
-                    Console.ReadKey();
+            if (l1 * l1 == l2 * l2 + l3 * l3)
+            {
+                Console.WriteLine("x={0},y={1}", x3 - x1 + x2, y3 - y1 + y2);
+                Console.ReadKey();
 
-                }
-                if (l2 * l2 == l1 * l1 + l3 * l3)
-                {
-                    Console.WriteLine("x={0},y={1}", x2 - x1 + x3, y2 - y1 + y3);
-                    Console.ReadKey();
+            }
+            if (l2 * l2 == l1 * l1 + l3 * l3)
+            {
+                Console.WriteLine("x={0},y={1}", x1 - x2 + x3, y1 - y2 + y3);
+                Console.ReadKey();
 
-                }
-                if (l3 * l3 == l2 * l2 + l1 * l1)
-                {
-                    Console.WriteLine("x={0},y={1}", x1 - x2 + x3, y1 - y2 + y3);
-                    Console.ReadKey();
+            }
+            if (l3 * l3 == l2 * l2 + l1 * l1)
+            {
+                Console.WriteLine("x={0},y={1}", x2 - x1 + x3, y2 - y1 + y3);
+                Console.ReadKey();
 
-                }
-          //  {
-            //    Console.WriteLine("x={0},y={1}", x3 - x1 + x2, y3 - y1 + y2);
-              //  Console.ReadKey();
-           // }
+            }
+
             else
             {
                 Console.WriteLine("Прямоугольника не существует");
                 Console.ReadKey();
             }
-            
-            
+
+
 
         }
 
@@ -71,7 +68,6 @@ namespace Programm_3
             while (true)
             {
                 if (double.TryParse(Console.ReadLine(), out a))
-  
                 {
                     return a;
                 }
