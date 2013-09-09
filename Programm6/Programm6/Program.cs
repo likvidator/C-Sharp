@@ -21,6 +21,7 @@ namespace ConsoleApplication1
             foreach (string x in a)
             {
                 Console.WriteLine(x);
+               
 
             }
             Console.ReadKey();
