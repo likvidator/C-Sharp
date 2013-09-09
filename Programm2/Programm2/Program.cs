@@ -14,7 +14,7 @@ namespace Programm2
         static void Main(string[] args)
         {
             int a = Input("a:");
-            int x1=a % 10;
+            int x1 = a % 10;
             a = a / 10;
             int x2 = a % 10;
             a = a / 10;
@@ -28,9 +28,9 @@ namespace Programm2
             }
             else
                 Console.Write("Число не зеркально");
-                Console.ReadKey();
+            Console.ReadKey();
 
-           
+
 
         }
 
