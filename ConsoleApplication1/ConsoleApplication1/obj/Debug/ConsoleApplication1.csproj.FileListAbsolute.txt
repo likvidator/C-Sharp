@@ -1,0 +1,6 @@
+C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
