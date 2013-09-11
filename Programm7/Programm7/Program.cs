@@ -22,16 +22,19 @@ namespace Programm7
             int m = min(a);
             SortedSet<int> arr = new SortedSet<int>();
             int i;
-            for (i = 0; i != a.Length - 1; i++) ;
-            arr.Add(a[i]);
+            for (i = 0; i != a.Length ; i++)
+            {
+                arr.Add(a[i]);
+            }
             for (i = m; i == M; i++) 
             {
-                if (arr.Equals(i))
+                if (arr.SetEquals(1))
                 {
-                    Console.WriteLine("123");
+                    Console.WriteLine("Да!!!");
+                    Console.ReadKey();
                 }
                 else
-                    Console.WriteLine(i);
+                    Console.WriteLine();
 
 
             }
@@ -73,7 +76,7 @@ namespace Programm7
             int len = int.Parse(Console.ReadLine());
             int[] array = new int[len];
             int i;
-            for (i = 0; i == len; i++) 
+            for (i = 0; i != len; i++) 
             {
                 array[i] = int.Parse(Console.ReadLine());
             }
