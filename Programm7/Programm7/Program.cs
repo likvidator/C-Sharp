@@ -20,25 +20,25 @@ namespace Programm7
             a = Input();
             int M = max(a);
             int m = min(a);
-            SortedSet<int> arr = new SortedSet<int>();
-            int i;
-            for (i = 0; i != a.Length ; i++)
+            Console.WriteLine("Ответ:");
+            for (int i = m; i != M; i++)
             {
-                arr.Add(a[i]);
-            }
-            for (i = m; i == M; i++) 
-            {
-                if (arr.SetEquals(1))
-                {
-                    Console.WriteLine("Да!!!");
-                    Console.ReadKey();
-                }
-                else
-                    Console.WriteLine();
-
+                if (search(a, i))
+                Console.WriteLine(i);
 
             }
             Console.ReadKey();
+
+        }
+
+        private static bool search(int[] arr, int i)
+        {
+            for (int a = 0; a != arr.Length ; a++)
+            {
+                if (arr[a] == i)
+                    return false;
+            }
+            return true;
 
         }
 
@@ -46,37 +46,37 @@ namespace Programm7
         {
             int i, m;
             m = a[0];
-            for (i = 0; i == a.Length; i++)
+            for (i = 0; i != a.Length; i++)
                 if (a[i] < m)
                     m = a[i];
             return m;
             {
 
             }
-            
+
         }
 
         private static int max(int[] a)
         {
-            int i,M;
+            int i, M;
             M = a[0];
-            for (i = 0; i == a.Length; i++)
-                if (a[i]>M)
-                    M=a[i];
+            for (i = 0; i != a.Length; i++)
+                if (a[i] > M)
+                    M = a[i];
             return M;
             {
-                
+
             }
         }
 
 
         private static int[] Input()
         {
-            Console.Write("Введите размер массива");
+            Console.Write("Введите размер массива:");
             int len = int.Parse(Console.ReadLine());
             int[] array = new int[len];
             int i;
-            for (i = 0; i != len; i++) 
+            for (i = 0; i != len; i++)
             {
                 array[i] = int.Parse(Console.ReadLine());
             }
