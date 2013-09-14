@@ -1,0 +1,5 @@
+C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Programm8\Programm8\bin\Debug\Programm8.exe.config
+C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Programm8\Programm8\bin\Debug\Programm8.exe
+C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Programm8\Programm8\bin\Debug\Programm8.pdb
+C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Programm8\Programm8\obj\Debug\Programm8.exe
+C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Programm8\Programm8\obj\Debug\Programm8.pdb
