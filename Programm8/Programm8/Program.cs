@@ -42,11 +42,11 @@ namespace Programm8
                         sx[i]++;
                 }
             }
-            for (int j = 0; j != m; j++)
+            for (int j = 0; j != n; j++)
             {
-                for (int i = 0; i != n; i++)
+                for (int i = 0; i != m; i++)
                 {
-                    if (arr[j, i] > b[j])
+                    if (arr[j, i] > b[i])
                         stx[i]++;
                     else
                         stz[i]++;
@@ -81,6 +81,7 @@ namespace Programm8
                     s += arr[j, i];
                 }
                 a[i] = s / m;
+                s = 0;
             }
             return a;
         }
@@ -95,7 +96,9 @@ namespace Programm8
                 {
                     s += arr[i, j];
                 }
+                
                 a[i] = s / m;
+                s = 0;
             }
             return a;
         }
