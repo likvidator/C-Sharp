@@ -15,59 +15,54 @@ namespace Programm10
         /// <param name="args"></param>
         static void Main(string[] args)
         {
-
-            double[] x1 = new double[10];
-            double[] x2 = new double[10];
-            double[] x3 = new double[10];
-            double[] y = new double[10];
-            List<double> sum1 = new List<double>();
-            List<double> sum2 = new List<double>();
-            x1 = Rand(x1);
-            x2 = Rand(x2);
-            x3 = Rand(x3);
-            sum1 = Summa(x1,x2);
-            for (int i = 0; i < x1.Length; i++)
-                Console.Write("\t[1]{0}", x1[i]);
-            Console.Write("\n");
-            for (int i = 0; i < x2.Length; i++)
-                Console.Write("\t[2]{0}", x2[i]);
-            Console.Write("\n");
-            for (int i = 0; i < sum1.Count; i++)
-                Console.Write("\t[3]{0}", sum1[i]);
-            Console.Write("\n");
+            HashSet<int> x1 = new HashSet<int>();
+            HashSet<int> x2 = new HashSet<int>();
+            HashSet<int> x3 = new HashSet<int>();
+            HashSet<int> sum1 = new HashSet<int>();
+            HashSet<int> sum2 = new HashSet<int>();
+            HashSet<int> y = new HashSet<int>();
+            Input(x1);
+            Input(x2);
+            Input(x3);
+            sum1.UnionWith(x1);
+            sum2.UnionWith(x1);
+            sum1.UnionWith(x2);
+            sum2.UnionWith(x3);
+            y.UnionWith(sum1);
+            y.IntersectWith(sum2);
+            Console.Write("Ответ:");
+            Print(x1, "x1");
+            Print(x2, "x2");
+            Print(x3, "x3");
+            Print(y, "y");
             Console.ReadKey();
-
         }
 
-        private static List<double> Summa(double[] x1, double[] x2)
+        private static void Print(HashSet<int> sum1, string p)
         {
-            List<double> sum = new List<double>();
+            {
+                Console.Write("Множество  {0}:", p);
+                foreach (int x in sum1)
+                    Console.Write("  {0}", x);
+                Console.Write("\n");
+            }
+        }
+
+
+
+
+        private static void Input(HashSet<int> x1)
+        {
+            int a;
+            Console.Write("Введите множество");
             for (int i = 0; i < 10; i++)
             {
-                sum.Add(x1[i]);
-                sum.Add(x2[i]);
+                if (int.TryParse(Console.ReadLine(), out a))
+                    x1.Add(a);
             }
-            for (int i = 0; i < sum.Count; i++)
-                for (int j = 0; j < sum.Count; j++)
-                {
-                    if (sum[i] == sum[j])
-                    {
-                        sum.Remove(i);
-                    }
-                }
-            return sum;
-        }
-        private static double[] Rand(double[] x1)
-        {
-            Random R = new Random();
-           
-            for (int i = 0; i < x1.Length; i++)
-            {
-                x1[i] = R.Next();
-
-            }
-            return x1;
         }
 
+        /*  
+         */
     }
 }
