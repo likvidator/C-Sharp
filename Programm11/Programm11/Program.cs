@@ -12,10 +12,11 @@ namespace Programm11
         {
             const int MaxN = 5;
             MPclass[] arr = new MPclass[MaxN];
+            arr[0].m = 1;
         }
     }
     
-    class MPclass
+    public class MPclass
     {
         
         double m, p;
