@@ -25,7 +25,7 @@ namespace Programm11
     class Program
     {
         const int MaxN = 5;
-        private double Max_Di(MPclass[] array)
+        public double Max_Di(MPclass[] array)
         {
             double temp = array[0].P;
             for (int i = 0; i < array.Length; i++)
@@ -37,9 +37,9 @@ namespace Programm11
             }
             return temp;
         }
-        private double MaxNeg(MPclass[] array)
+        public double MaxNeg(MPclass[] array)
         {
-            double temp=0;
+            double temp = 0;
             for (int i = 0; i < array.Length; i++)
                 if (!array[i].Zn)
                     temp = array[i].ToDouble();
@@ -53,12 +53,17 @@ namespace Programm11
         static void Main(string[] args)
         {
             MPclass[] arr = new MPclass[MaxN];
-            for (int i = 0; i < MaxN; i++)
-            {
-                arr[i] = new MPclass(2, 1, false);
-            }
-            double l = arr[0].ToDouble();
-            Console.Write(l);
+            arr[0] = new MPclass(2, 1, false);
+            arr[1] = new MPclass(4, 1, true);
+            arr[2] = new MPclass(5, 1, false);
+            arr[3] = new MPclass(6, 1, true);
+            arr[4] = new MPclass(7, 1, false);
+            Program mc = new Program();
+            double a =mc.MaxNeg(arr);
+            double b = mc.Max_Di(arr);
+            Console.WriteLine("Max neg ={0}",a);
+            Console.WriteLine("Max Di ={0}",b);
+
 
             Console.ReadKey();
         }
