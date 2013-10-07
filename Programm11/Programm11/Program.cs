@@ -45,7 +45,7 @@ namespace Programm11
                     temp = array[i].ToDouble();
             for (int i = 0; i < array.Length; i++)
             {
-                if (array[i].ToDouble() < temp)
+                if ((array[i].ToDouble() > temp)&&(!array[i].Zn))
                     temp = array[i].ToDouble();
             }
             return temp;
@@ -56,7 +56,7 @@ namespace Programm11
             arr[0] = new MPclass(2, 1, false);
             arr[1] = new MPclass(4, 1, true);
             arr[2] = new MPclass(5, 1, false);
-            arr[3] = new MPclass(6, 1, true);
+            arr[3] = new MPclass(6, 7, true);
             arr[4] = new MPclass(7, 1, false);
             Program mc = new Program();
             double a =mc.MaxNeg(arr);
