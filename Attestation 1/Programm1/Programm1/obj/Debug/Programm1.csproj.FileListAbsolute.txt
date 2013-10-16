@@ -1,0 +1,6 @@
+c:\users\максим\documents\visual studio 2012\CSharp\Programm1\Programm1\bin\Debug\Programm1.exe.config
+c:\users\максим\documents\visual studio 2012\CSharp\Programm1\Programm1\obj\Debug\Programm1.csprojResolveAssemblyReference.cache
+c:\users\максим\documents\visual studio 2012\CSharp\Programm1\Programm1\bin\Debug\Programm1.exe
+c:\users\максим\documents\visual studio 2012\CSharp\Programm1\Programm1\bin\Debug\Programm1.pdb
+c:\users\максим\documents\visual studio 2012\CSharp\Programm1\Programm1\obj\Debug\Programm1.exe
+c:\users\максим\documents\visual studio 2012\CSharp\Programm1\Programm1\obj\Debug\Programm1.pdb

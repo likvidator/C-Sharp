@@ -1,0 +1,12 @@
+C:\Users\Максим\Dropbox\C#\C--VSU\Programm4\Programm4\bin\Debug\Programm4.exe.config
+C:\Users\Максим\Dropbox\C#\C--VSU\Programm4\Programm4\bin\Debug\Programm4.exe
+C:\Users\Максим\Dropbox\C#\C--VSU\Programm4\Programm4\bin\Debug\Programm4.pdb
+C:\Users\Максим\Dropbox\C#\C--VSU\Programm4\Programm4\obj\Debug\Programm4.csprojResolveAssemblyReference.cache
+C:\Users\Максим\Dropbox\C#\C--VSU\Programm4\Programm4\obj\Debug\Programm4.exe
+C:\Users\Максим\Dropbox\C#\C--VSU\Programm4\Programm4\obj\Debug\Programm4.pdb
+C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Programm4\Programm4\bin\Debug\Programm4.exe.config
+C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Programm4\Programm4\obj\Debug\Programm4.exe
+C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Programm4\Programm4\obj\Debug\Programm4.pdb
+C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Programm4\Programm4\bin\Debug\Programm4.exe
+C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Programm4\Programm4\bin\Debug\Programm4.pdb
+C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Programm4\Programm4\obj\Debug\Programm4.csprojResolveAssemblyReference.cache
