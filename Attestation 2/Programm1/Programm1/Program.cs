@@ -23,5 +23,6 @@ namespace Programm1
             fs.WriteByte(1);
             
         }
+        //Пыщ пыщ я бэтмен
     }
 }
