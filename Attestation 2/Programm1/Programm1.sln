@@ -3,10 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programm1", "Programm1\Programm1.csproj", "{46C9BBCA-4886-4F6A-B976-BC1E31A00428}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WriteMatrix", "WriteMatrix\WriteMatrix.csproj", "{C985EA17-CE6E-4042-9C04-5C0E88D3D1B6}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadMatrix", "ReadMatrix\ReadMatrix.csproj", "{111EB46C-D78D-4D4B-A592-981EBBD639F5}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,14 +13,6 @@ Global
 		{46C9BBCA-4886-4F6A-B976-BC1E31A00428}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46C9BBCA-4886-4F6A-B976-BC1E31A00428}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46C9BBCA-4886-4F6A-B976-BC1E31A00428}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C985EA17-CE6E-4042-9C04-5C0E88D3D1B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C985EA17-CE6E-4042-9C04-5C0E88D3D1B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C985EA17-CE6E-4042-9C04-5C0E88D3D1B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C985EA17-CE6E-4042-9C04-5C0E88D3D1B6}.Release|Any CPU.Build.0 = Release|Any CPU
-		{111EB46C-D78D-4D4B-A592-981EBBD639F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{111EB46C-D78D-4D4B-A592-981EBBD639F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{111EB46C-D78D-4D4B-A592-981EBBD639F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{111EB46C-D78D-4D4B-A592-981EBBD639F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

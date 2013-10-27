@@ -1,0 +1,64 @@
+D:\Документы\C#\Book\Ch8 Приложения для Windows\Student\Student\bin\Debug\Student.exe
+D:\Документы\C#\Book\Ch8 Приложения для Windows\Student\Student\bin\Debug\Student.pdb
+D:\Документы\C#\Book\Ch8 Приложения для Windows\Student\Student\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Документы\C#\Book\Ch8 Приложения для Windows\Student\Student\obj\x86\Debug\Student.FormGroup.resources
+D:\Документы\C#\Book\Ch8 Приложения для Windows\Student\Student\obj\x86\Debug\Student.Properties.Resources.resources
+D:\Документы\C#\Book\Ch8 Приложения для Windows\Student\Student\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Документы\C#\Book\Ch8 Приложения для Windows\Student\Student\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Документы\C#\Book\Ch8 Приложения для Windows\Student\Student\obj\x86\Debug\Student.exe
+D:\Документы\C#\Book\Ch8 Приложения для Windows\Student\Student\obj\x86\Debug\Student.pdb
+D:\Документы\C#\Book\Ch8 Приложения для Windows\Student\Student\obj\x86\Debug\Student.FormEditGroup.resources
+D:\Документы\C#\Book\Ch8 Приложения для Windows\Student\Student\obj\x86\Debug\Student.FormStud.resources
+D:\Документы\C#\Book\Ch8 Приложения для Windows\Student\Student\obj\x86\Debug\Student.FormEditStud.resources
+D:\Документы\C#\Book\Ch11 Файлы\Student\Student\obj\x86\Debug\Student.exe
+D:\Документы\C#\Book\Ch11 Файлы\Student\Student\obj\x86\Debug\Student.pdb
+D:\Документы\C#\Book\Ch11 Файлы\Student\Student\bin\Debug\Student.exe
+D:\Документы\C#\Book\Ch11 Файлы\Student\Student\bin\Debug\Student.pdb
+D:\Документы\C#\Book\Ch11 Файлы\Student\Student\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Документы\C#\Book\Ch11 Файлы\Student\Student\obj\x86\Debug\Student.FormEditGroup.resources
+D:\Документы\C#\Book\Ch11 Файлы\Student\Student\obj\x86\Debug\Student.FormEditStud.resources
+D:\Документы\C#\Book\Ch11 Файлы\Student\Student\obj\x86\Debug\Student.FormGroup.resources
+D:\Документы\C#\Book\Ch11 Файлы\Student\Student\obj\x86\Debug\Student.FormStud.resources
+D:\Документы\C#\Book\Ch11 Файлы\Student\Student\obj\x86\Debug\Student.Properties.Resources.resources
+D:\Документы\C#\Book\Ch11 Файлы\Student\Student\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Документы\C#\Book\Ch11 Файлы\Student\Student\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Документы\C#\Book\Ch10 Файлы\Student\Student\obj\x86\Debug\Student.exe
+D:\Документы\C#\Book\Ch10 Файлы\Student\Student\obj\x86\Debug\Student.pdb
+D:\Документы\C#\Book\Ch10 Файлы\Student\Student\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Документы\C#\Book\Ch10 Файлы\Student\Student\obj\x86\Debug\Student.FormEditGroup.resources
+D:\Документы\C#\Book\Ch10 Файлы\Student\Student\obj\x86\Debug\Student.FormEditStud.resources
+D:\Документы\C#\Book\Ch10 Файлы\Student\Student\obj\x86\Debug\Student.FormGroup.resources
+D:\Документы\C#\Book\Ch10 Файлы\Student\Student\obj\x86\Debug\Student.FormStud.resources
+D:\Документы\C#\Book\Ch10 Файлы\Student\Student\obj\x86\Debug\Student.Properties.Resources.resources
+D:\Документы\C#\Book\Ch10 Файлы\Student\Student\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Документы\C#\Book\Ch10 Файлы\Student\Student\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Документы\C#\Book\Ch10 Файлы\Student\Student\bin\Debug\Student.exe
+D:\Документы\C#\Book\Ch10 Файлы\Student\Student\bin\Debug\Student.pdb
+D:\Документы\C#\Book\Ch10 Файлы\Student\Student\obj\x86\Debug\Student.FormFindStud.resources
+D:\C#\Book\Ch10 Файлы\Student\Student\obj\x86\Debug\Student.exe
+D:\C#\Book\Ch10 Файлы\Student\Student\obj\x86\Debug\Student.pdb
+L:\Лекции\2 Курс\C#\Лекция 10 Бинарные файлы\Student\Student\obj\x86\Debug\Student.exe
+L:\Лекции\2 Курс\C#\Лекция 10 Бинарные файлы\Student\Student\obj\x86\Debug\Student.pdb
+L:\Лекции\2 Курс\C#\Лекция 10 Бинарные файлы\Student\Student\bin\Debug\Student.exe
+L:\Лекции\2 Курс\C#\Лекция 10 Бинарные файлы\Student\Student\bin\Debug\Student.pdb
+L:\Лекции\2 Курс\C#\Лекция 10 Бинарные файлы\Student\Student\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\Лекции\2 Курс\C#\Лекция 10 Бинарные файлы\Student\Student\obj\x86\Debug\Student.FormEditGroup.resources
+L:\Лекции\2 Курс\C#\Лекция 10 Бинарные файлы\Student\Student\obj\x86\Debug\Student.FormEditStud.resources
+L:\Лекции\2 Курс\C#\Лекция 10 Бинарные файлы\Student\Student\obj\x86\Debug\Student.FormFindStud.resources
+L:\Лекции\2 Курс\C#\Лекция 10 Бинарные файлы\Student\Student\obj\x86\Debug\Student.FormGroup.resources
+L:\Лекции\2 Курс\C#\Лекция 10 Бинарные файлы\Student\Student\obj\x86\Debug\Student.FormStud.resources
+L:\Лекции\2 Курс\C#\Лекция 10 Бинарные файлы\Student\Student\obj\x86\Debug\Student.Properties.Resources.resources
+L:\Лекции\2 Курс\C#\Лекция 10 Бинарные файлы\Student\Student\obj\x86\Debug\GenerateResource.read.1.tlog
+L:\Лекции\2 Курс\C#\Лекция 10 Бинарные файлы\Student\Student\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Attestation 2\Student\Student\obj\x86\Debug\Student.exe
+C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Attestation 2\Student\Student\obj\x86\Debug\Student.pdb
+C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Attestation 2\Student\Student\bin\Debug\Student.exe
+C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Attestation 2\Student\Student\bin\Debug\Student.pdb
+C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Attestation 2\Student\Student\obj\x86\Debug\Student.csprojResolveAssemblyReference.cache
+C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Attestation 2\Student\Student\obj\x86\Debug\Student.FormEditGroup.resources
+C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Attestation 2\Student\Student\obj\x86\Debug\Student.FormEditStud.resources
+C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Attestation 2\Student\Student\obj\x86\Debug\Student.FormFindStud.resources
+C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Attestation 2\Student\Student\obj\x86\Debug\Student.FormGroup.resources
+C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Attestation 2\Student\Student\obj\x86\Debug\Student.FormStud.resources
+C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Attestation 2\Student\Student\obj\x86\Debug\Student.Properties.Resources.resources
+C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Attestation 2\Student\Student\obj\x86\Debug\Student.csproj.GenerateResource.Cache

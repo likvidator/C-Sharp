@@ -30,7 +30,7 @@ namespace GenerateMatrixFile
 
         private static int InputInt(string x)
         {
-            Console.Write("Вводите число {0} = ", x);
+            Console.Write("Вводите {0} = ", x);
             int a;
             while (true)
             {
@@ -43,13 +43,13 @@ namespace GenerateMatrixFile
 
         static void Main(string[] args)
         {
-            int n = InputInt("n");
-            int m = InputInt("m");
+            int n = InputInt("Длинну");
+            int m = InputInt("Ширину");
             double[,] M = new double[n, m];
-            int j=0;
-            for (int i = 0; i < n; i++)
+            int i=0;
+            for (i = 0; i < n; i++)
             {
-                for (j = 0; j < m; j++)
+                for (int j = 0; j < m; j++)
                 {
                     Console.Write("a[{0}, {1}] =", i, j);
                     M[i, j] = double.Parse(Console.ReadLine());
@@ -58,7 +58,7 @@ namespace GenerateMatrixFile
 
             Console.Write("Input file name: ");
             string fileName = Console.ReadLine();
-            CreateFile(M, fileName,j);
+            CreateFile(M, fileName, i);
         }
     }
 }

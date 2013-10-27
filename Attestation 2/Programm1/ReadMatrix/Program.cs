@@ -11,11 +11,10 @@ namespace ReadMatrix
     {
         static void Main(string[] args)
         {
-
-
-
+            Console.WriteLine("Write FileName");
             string fileName = Console.ReadLine();
             FileInfo f = new FileInfo(fileName);
+           
             long s = f.Length;
             s = (s / 8) - 1;
             int len = System.Convert.ToInt32(s);
@@ -41,16 +40,12 @@ namespace ReadMatrix
                     {
                         for (int j = 0; j < (s / stolb); j++)
                         {
-                            Console.Write(array[i, j] + " ");
+                            Console.Write(array[i, j] + "\t");
                         }
                         Console.Write("\n");
                     }
                 }
 
-                for (int i = 0; i < a.Length; i++)
-                {
-                    Console.Write(a[i] + " ");
-                }
                 Console.ReadKey();
             }
         }
