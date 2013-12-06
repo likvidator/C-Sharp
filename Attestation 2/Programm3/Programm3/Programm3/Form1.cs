@@ -36,21 +36,21 @@ namespace Programm3
             g.Clear(Color.White);
             g.DrawLine(blackPen, -pictureBox1.Size.Width / 2, 0, pictureBox1.Size.Width / 2, 0);
             g.DrawLine(blackPen, 0, -pictureBox1.Size.Height / 2, 0, pictureBox1.Size.Height / 2);
-            if (n < 5000)
+
+            for (int i = 0; i < x1.Length; i++)
             {
-                for (int i =0; i < x1.Length; i++)
-                {
-                    if ((f1[i].Y <= f2[i].Y&&f1[i].X >= f2[i].X)||(f1[i].Y >= f2[i].Y&&(f1[i].X <= f2[i].X)))
-                        f1[i].Y = f1[i].Y + 1;
-                }
-                g.Clear(Color.White);
-                g.DrawLine(blackPen, -pictureBox1.Size.Width / 2, 0, pictureBox1.Size.Width / 2, 0);
-                g.DrawLine(blackPen, 0, -pictureBox1.Size.Height / 2, 0, pictureBox1.Size.Height / 2);
-                g.DrawCurve(blackPen, f2);
-                g.DrawCurve(redPen, f1);
-                pictureBox1.Refresh();
-                n += 1;
+                if (((f1[i].Y < f2[i].Y)&&(f1[i].X >= f2[i].X)))
+               //if (((f1[i].Y > f2[i].Y) && (f1[i].X <= f2[i].X)) || ((f1[i].Y < f2[i].Y) && (f1[i].X >= f2[i].X)))
+                    f1[i].Y = f1[i].Y + 1;
             }
+            g.Clear(Color.White);
+            g.DrawLine(blackPen, -pictureBox1.Size.Width / 2, 0, pictureBox1.Size.Width / 2, 0);
+            g.DrawLine(blackPen, 0, -pictureBox1.Size.Height / 2, 0, pictureBox1.Size.Height / 2);
+            g.DrawCurve(blackPen, f2);
+            g.DrawCurve(redPen, f1);
+            pictureBox1.Refresh();
+            n += 1;
+
 
 
 
@@ -63,14 +63,16 @@ namespace Programm3
             for (int i = x1.Length - 1; i > -1; i--)
             {
                 x1[i] = 10 * d;
-                y1[i] = x1[i] * x1[i];
+                y1[i] = x1[i] * x1[i]+4;
+
                 d += 1;
             }
             d = x2.Length / 2 * (-1);
             for (int i = x2.Length - 1; i > -1; i--)
             {
                 x2[i] = 100 * d;
-                y2[i] = x2[i] * 2 - 20;
+                y2[i] =  x2[i] * x2[i]  -20;
+
                 d += 1;
             }
             for (int i = 0; i < x1.Length; i++)

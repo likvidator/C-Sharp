@@ -34,7 +34,7 @@ namespace Programm2
             Pen blackPen = new Pen(Color.Black, 2);
             Pen grayPen = new Pen(Color.Gray, 2);
             Pen greenPen = new Pen(Color.Green, 1);
-            Font myFont =new Font("Tahoma", 20);
+            Font myFont = new Font("Jokerman", 20);
             g.Clear(Color.White);
             //Монитор
             g.FillRectangle(Brushes.Black, 100, 60, 170, 120);
@@ -43,7 +43,7 @@ namespace Programm2
             g.DrawRectangle(grayPen, 100, 60, 170, 120);
             g.FillRectangle(Brushes.Black, 135, 200, 100, 4);
 
-            g.DrawString("Asus", myFont, System.Drawing.Brushes.Black, 155, 100);
+            g.DrawString("Asus", myFont, System.Drawing.Brushes.Black, 150, 95);
             //Системник
             g.FillRectangle(Brushes.Black, 300, 10, 90, 194);
             g.DrawRectangle(grayPen, 300, 10, 90, 194);
