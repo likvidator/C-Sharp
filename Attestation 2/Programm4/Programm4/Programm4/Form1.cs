@@ -7,17 +7,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-// для работы с библиотекой OpenGL
 using Tao.OpenGl;
-// для работы с библиотекой FreeGLUT
 using Tao.FreeGlut;
-// для работы с элементом управления SimpleOpenGLControl
 using Tao.Platform.Windows;
 
 namespace Programm4
 {
     public partial class Form1 : Form
     {
+        double x = 0;
         public Form1()
         {
             InitializeComponent();
@@ -51,23 +49,41 @@ namespace Programm4
 
         private void button1_Click(object sender, EventArgs e)
         {
+            timer1.Enabled = true;
+        }
+
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+
+
             Gl.glClear(Gl.GL_COLOR_BUFFER_BIT | Gl.GL_DEPTH_BUFFER_BIT);
 
             Gl.glLoadIdentity();
-            Gl.glColor3f(1.0f, 0, 0);
+            Gl.glColor3f(0, 1.0f, 0);
 
-            Gl.glPushMatrix();
-            Gl.glTranslated(0, 0, -6);
-            Gl.glRotated(45, 1, 1, 0);
+            //Gl.glPushMatrix();
+            Gl.glTranslated(0, 0, -5);
+            Gl.glRotated(x, 0, 0, 1);
 
             // рисуем сферу с помощью библиотеки FreeGLUT
-            //Glut.glutWireSphere(2, 32, 32);
-            //Glut.glutWindowStatusFunc();
+            //Glut.glutWireSphere(3, 20, 20);
+            Gl.glColor3f(0, 0, 1.0f);
+            Glut.glutWireIcosahedron();
+            //Glut.glutWireCube(1);
 
-            Glut.WindowStatusCallback
-            Gl.glPopMatrix();
             Gl.glFlush();
             simpleOpenGlControl1.Invalidate();
+            x += trackBar1.Value;
+        }
+
+        private void trackBar1_Scroll(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
