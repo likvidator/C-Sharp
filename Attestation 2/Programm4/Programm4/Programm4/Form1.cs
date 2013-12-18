@@ -10,6 +10,7 @@ using System.Windows.Forms;
 using Tao.OpenGl;
 using Tao.FreeGlut;
 using Tao.Platform.Windows;
+using Tao.FreeGlut;
 
 namespace Programm4
 {
@@ -26,6 +27,7 @@ namespace Programm4
         private void Form1_Load(object sender, EventArgs e)
         {
             // инициализация Glut
+            
             Glut.glutInit();
             Glut.glutInitDisplayMode(Glut.GLUT_RGB | Glut.GLUT_DOUBLE | Glut.GLUT_DEPTH);
 
@@ -42,7 +44,7 @@ namespace Programm4
             Glu.gluPerspective(45, (float)simpleOpenGlControl1.Width / (float)simpleOpenGlControl1.Height, 0.1, 200);
             Gl.glMatrixMode(Gl.GL_MODELVIEW);
             Gl.glLoadIdentity();
-
+            
             // настройка параметров OpenGL для визуализации
             Gl.glEnable(Gl.GL_DEPTH_TEST);
         }
@@ -62,18 +64,21 @@ namespace Programm4
             Gl.glColor3f(0, 1.0f, 0);
 
             //Gl.glPushMatrix();
-            Gl.glTranslated(0, 0, -5);
-            Gl.glRotated(x, 0, 0, 1);
+            Gl.glTranslated(1, 0, -10 );
+            Gl.glRotated(1, 1, 0, 1);
 
             // рисуем сферу с помощью библиотеки FreeGLUT
             //Glut.glutWireSphere(3, 20, 20);
             Gl.glColor3f(0, 0, 1.0f);
-            Glut.glutWireIcosahedron();
+            //Glut.glutWireIcosahedron();
+            Glut.glutStrokeString(Glut.GLUT_STROKE_MONO_ROMAN, "awsdawdawdawd");
+            Glut.glutInitDisplayString("qwewqe");
+           
             //Glut.glutWireCube(1);
 
             Gl.glFlush();
             simpleOpenGlControl1.Invalidate();
-            x += trackBar1.Value;
+            //x += trackBar1.Value;
         }
 
         private void trackBar1_Scroll(object sender, EventArgs e)

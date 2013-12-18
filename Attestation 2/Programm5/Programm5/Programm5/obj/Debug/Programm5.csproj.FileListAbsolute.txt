@@ -6,3 +6,4 @@ C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Attestation 2\Programm5\Programm5\P
 C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Attestation 2\Programm5\Programm5\Programm5\obj\Debug\Programm5.csproj.GenerateResource.Cache
 C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Attestation 2\Programm5\Programm5\Programm5\obj\Debug\Programm5.exe
 C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Attestation 2\Programm5\Programm5\Programm5\obj\Debug\Programm5.pdb
+C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Attestation 2\Programm5\Programm5\Programm5\obj\Debug\Programm5.csprojResolveAssemblyReference.cache

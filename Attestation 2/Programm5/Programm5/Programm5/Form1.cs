@@ -68,39 +68,40 @@ namespace Programm5
             {
                 if (x.ToString() == "D")
                 {
-                    d += 1;
+                    d += 5;
                 }
                 if (x.ToString() == "A")
                 {
-                    d -= 1;
+                    d -= 5;
                 }
                 if (x.ToString() == "W")
                 {
-                    s -= 1;
+                    s -= 5;
                 }
                 if (x.ToString() == "S")
                 {
-                    s += 1;
+                    s += 5;
                 }
                 if (x.ToString() == "Right")
                 {
-                    left += 1;
+                    left += 15;
                 }
                 if (x.ToString() == "Left")
                 {
-                    left -= 1;
+                    left -= 15;
                 }
                 if (x.ToString() == "Up")
                 {
-                    up -= 1;
+                    up -= 15;
                 }
                 if (x.ToString() == "Down")
                 {
-                    up += 1;
+                    up += 15;
                 }
             }
+            g.FillEllipse(Brushes.Red, left, up, 30, 30);
             g.FillRectangle(Brushes.Black, d, s, 15, 15);
-            g.FillEllipse(Brushes.Red,left,up, 30, 30);
+            
             pictureBox1.Refresh();
 
             
