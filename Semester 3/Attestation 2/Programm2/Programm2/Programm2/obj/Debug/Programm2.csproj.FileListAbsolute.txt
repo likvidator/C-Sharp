@@ -1,0 +1,9 @@
+C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Attestation 2\Programm2\Programm2\Programm2\bin\Debug\Programm2.exe.config
+C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Attestation 2\Programm2\Programm2\Programm2\obj\Debug\Programm2.exe
+C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Attestation 2\Programm2\Programm2\Programm2\obj\Debug\Programm2.pdb
+C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Attestation 2\Programm2\Programm2\Programm2\bin\Debug\Programm2.exe
+C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Attestation 2\Programm2\Programm2\Programm2\bin\Debug\Programm2.pdb
+C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Attestation 2\Programm2\Programm2\Programm2\obj\Debug\Programm2.csprojResolveAssemblyReference.cache
+C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Attestation 2\Programm2\Programm2\Programm2\obj\Debug\Programm2.Form1.resources
+C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Attestation 2\Programm2\Programm2\Programm2\obj\Debug\Programm2.Properties.Resources.resources
+C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Attestation 2\Programm2\Programm2\Programm2\obj\Debug\Programm2.csproj.GenerateResource.Cache

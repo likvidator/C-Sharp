@@ -1,0 +1,6 @@
+C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Attestation 2\Programm1\Programm1\bin\Debug\Programm1.exe.config
+C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Attestation 2\Programm1\Programm1\bin\Debug\Programm1.exe
+C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Attestation 2\Programm1\Programm1\bin\Debug\Programm1.pdb
+C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Attestation 2\Programm1\Programm1\obj\Debug\Programm1.csprojResolveAssemblyReference.cache
+C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Attestation 2\Programm1\Programm1\obj\Debug\Programm1.exe
+C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Attestation 2\Programm1\Programm1\obj\Debug\Programm1.pdb

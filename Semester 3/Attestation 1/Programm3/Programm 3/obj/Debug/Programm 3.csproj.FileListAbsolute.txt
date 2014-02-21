@@ -1,0 +1,12 @@
+C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Programm 3\Programm 3\bin\Debug\Programm 3.exe.config
+C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Programm 3\Programm 3\bin\Debug\Programm 3.exe
+C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Programm 3\Programm 3\bin\Debug\Programm 3.pdb
+C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Programm 3\Programm 3\obj\Debug\Programm 3.csprojResolveAssemblyReference.cache
+C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Programm 3\Programm 3\obj\Debug\Programm 3.exe
+C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Programm 3\Programm 3\obj\Debug\Programm 3.pdb
+C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Programm3\Programm 3\bin\Debug\Programm 3.exe.config
+C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Programm3\Programm 3\obj\Debug\Programm 3.exe
+C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Programm3\Programm 3\obj\Debug\Programm 3.pdb
+C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Programm3\Programm 3\bin\Debug\Programm 3.exe
+C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Programm3\Programm 3\bin\Debug\Programm 3.pdb
+C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Programm3\Programm 3\obj\Debug\Programm 3.csprojResolveAssemblyReference.cache
