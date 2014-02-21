@@ -1,6 +1,0 @@
-C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Attestation 2\Programm1\ReadMatrix\bin\Debug\ReadMatrix.exe.config
-C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Attestation 2\Programm1\ReadMatrix\bin\Debug\ReadMatrix.exe
-C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Attestation 2\Programm1\ReadMatrix\bin\Debug\ReadMatrix.pdb
-C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Attestation 2\Programm1\ReadMatrix\obj\Debug\ReadMatrix.exe
-C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Attestation 2\Programm1\ReadMatrix\obj\Debug\ReadMatrix.pdb
-C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Attestation 2\Programm1\ReadMatrix\obj\Debug\ReadMatrix.csprojResolveAssemblyReference.cache

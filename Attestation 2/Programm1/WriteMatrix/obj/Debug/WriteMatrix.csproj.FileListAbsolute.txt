@@ -1,6 +1,0 @@
-C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Attestation 2\Programm1\WriteMatrix\bin\Debug\WriteMatrix.exe.config
-C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Attestation 2\Programm1\WriteMatrix\bin\Debug\WriteMatrix.exe
-C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Attestation 2\Programm1\WriteMatrix\bin\Debug\WriteMatrix.pdb
-C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Attestation 2\Programm1\WriteMatrix\obj\Debug\WriteMatrix.exe
-C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Attestation 2\Programm1\WriteMatrix\obj\Debug\WriteMatrix.pdb
-C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Attestation 2\Programm1\WriteMatrix\obj\Debug\WriteMatrix.csprojResolveAssemblyReference.cache

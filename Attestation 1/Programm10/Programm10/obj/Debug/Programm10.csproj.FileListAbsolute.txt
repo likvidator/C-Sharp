@@ -1,6 +1,0 @@
-C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Programm10\Programm10\bin\Debug\Programm10.exe.config
-C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Programm10\Programm10\bin\Debug\Programm10.exe
-C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Programm10\Programm10\bin\Debug\Programm10.pdb
-C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Programm10\Programm10\obj\Debug\Programm10.csprojResolveAssemblyReference.cache
-C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Programm10\Programm10\obj\Debug\Programm10.exe
-C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Programm10\Programm10\obj\Debug\Programm10.pdb

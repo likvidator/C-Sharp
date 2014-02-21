@@ -1,6 +1,0 @@
-C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Programm6\Programm6\bin\Debug\Programm6.exe.config
-C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Programm6\Programm6\bin\Debug\Programm6.exe
-C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Programm6\Programm6\bin\Debug\Programm6.pdb
-C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Programm6\Programm6\obj\Debug\Programm6.exe
-C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Programm6\Programm6\obj\Debug\Programm6.pdb
-C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Programm6\Programm6\obj\Debug\Programm6.csprojResolveAssemblyReference.cache

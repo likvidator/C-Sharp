@@ -1,5 +1,0 @@
-C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Attestation 2\Programm1\NewMatrixFile\bin\Debug\NewMatrixFile.exe.config
-C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Attestation 2\Programm1\NewMatrixFile\bin\Debug\NewMatrixFile.exe
-C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Attestation 2\Programm1\NewMatrixFile\bin\Debug\NewMatrixFile.pdb
-C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Attestation 2\Programm1\NewMatrixFile\obj\Debug\NewMatrixFile.exe
-C:\Users\Максим\Dropbox\C#\C-Sharp-VSU\Attestation 2\Programm1\NewMatrixFile\obj\Debug\NewMatrixFile.pdb
